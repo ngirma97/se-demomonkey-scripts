@@ -1,0 +1,7 @@
+// @name Team Sync Test
+// @description Testing auto-sync between GitHub and Demo Monkey
+// @namespace Sales-Test
+
+// This will replace the word 'Google' with 'My Awesome App' 
+// (Works great for testing on google.com)
+Google = My Awesome App
